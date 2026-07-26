@@ -20,6 +20,6 @@
 ---
 
 <p align="center">
-  <small>heysharad@proton.me</small>
+  <small>heysharad.com</small>
 </p>
 
