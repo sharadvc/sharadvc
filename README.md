@@ -14,12 +14,8 @@
 
 ### what i build
 
-- **portfolio** — personal site at [heysharad.com](https://heysharad.com)
 - **cloudmusic** — music streaming server with Subsonic API
-- **the-hugging-bay** — BitTorrent tracker for AI models
 - **subtrackr** — subscription tracking SaaS
-- **omega** — crypto intelligence platform
-- **seamaster** — micro-SaaS experiments
 
 ---
 
