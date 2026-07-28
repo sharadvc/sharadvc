@@ -10,13 +10,6 @@
   <a href="https://heysharad.com">heysharad.com</a>
 </p>
 
----
-
-### what i build
-
-- **cloudmusic** — music streaming server with Subsonic API
-
----
 
 <p align="center">
   <small>heysharad.com</small>
