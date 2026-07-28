@@ -15,7 +15,6 @@
 ### what i build
 
 - **cloudmusic** — music streaming server with Subsonic API
-- **subtrackr** — subscription tracking SaaS
 
 ---
 
