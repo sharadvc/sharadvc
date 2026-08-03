@@ -4,10 +4,6 @@
 
 I'm **Sharad** — an independent builder. I take an idea, strip the confusion out of it, and ship something small enough to actually feel personal. Most of what I make is free-tier SaaS that works, AI tools that earn their place, and devtools that cut friction instead of adding it.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharadvc/sharadvc/main/assets/cards.svg" width="100%" alt="What I build: SaaS that ships, AI that earns its spot, design as a feature" />
-</p>
-
 ---
 
 ### 🚀 Building right now
