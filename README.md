@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharadvc/sharadvc/main/assets/banner.svg" width="100%" alt="Sharad. — I build small software that ships." />
-</p>
 
 I'm **Sharad** — an independent builder. I take an idea, strip the confusion out of it, and ship something small enough to actually feel personal. Most of what I make is free-tier SaaS that works, AI tools that earn their place, and devtools that cut friction instead of adding it.
 
@@ -21,7 +18,6 @@ I'm **Sharad** — an independent builder. I take an idea, strip the confusion o
 ### 📫 Elsewhere
 
 - [**heysharad.com**](https://heysharad.com) — writing, selected work, and the occasional hot take
-- [**Synop live demo**](https://synop-ai.vercel.app) — see it before you trust it
 
 ---
 
