@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0b12"/>
+      <stop offset="1" stop-color="#11111b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.25" r="0.75">
+      <stop stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="0.6" stop-color="#22d3ee" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="340" fill="url(#bg)"/>
+  <rect width="1000" height="340" fill="url(#glow)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#94a3b8" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="85"  x2="1000" y2="85"/>
+    <line x1="0" y1="170" x2="1000" y2="170"/>
+    <line x1="0" y1="255" x2="1000" y2="255"/>
+    <line x1="250" y1="0"  x2="250" y2="340"/>
+    <line x1="500" y1="0"  x2="500" y2="340"/>
+    <line x1="750" y1="0"  x2="750" y2="340"/>
+  </g>
+
+  <!-- accent hairline -->
+  <rect x="0" y="0" width="1000" height="2" fill="url(#accent)" opacity="0.9"/>
+
+  <!-- name -->
+  <text x="64" y="150" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="76" font-weight="700" fill="url(#name)" letter-spacing="-1.5">Sharad<span fill="#e2e8f0">.</span></text>
+
+  <!-- blinking cursor -->
+  <rect x="330" y="92" width="4" height="52" fill="#67e8f9" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.1;0.9" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tagline -->
+  <text x="64" y="206" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="24" font-weight="500" fill="#cbd5e1" letter-spacing="-0.3">I build small software that ships.</text>
+
+  <!-- sub -->
+  <text x="64" y="244" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="15" fill="#64748b" letter-spacing="0.1">Uptime monitoring · AI tools · products small enough to feel personal</text>
+
+  <!-- status pill -->
+  <g transform="translate(64, 280)">
+    <rect width="150" height="26" rx="13" fill="#134e4a" stroke="#2dd4bf" stroke-opacity="0.35"/>
+    <circle cx="15" cy="13" r="4" fill="#34d399">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="28" y="18" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#5eead4">BUILDING NOW</text>
+  </g>
+</svg>

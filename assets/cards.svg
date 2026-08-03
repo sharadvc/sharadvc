@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="300" y2="0">
+      <stop stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="300" y2="0">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="300" y2="0">
+      <stop stop-color="#10b981"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0b12"/>
+      <stop offset="1" stop-color="#11111b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="210" fill="url(#bg)"/>
+
+  <!-- card 1 : SaaS -->
+  <g>
+    <rect x="20" y="24" width="300" height="162" rx="14" fill="#131320" stroke="#1e293b" stroke-width="1.5"/>
+    <rect x="40" y="44" width="40" height="40" rx="10" fill="url(#c1)"/>
+    <text x="60" y="70" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#0b0b12" text-anchor="middle" font-weight="800">⚙</text>
+    <text x="96" y="64" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">SaaS that ships</text>
+    <text x="40" y="88" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Free-tier stacks. Real billing.</text>
+    <text x="40" y="106" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Verified end-to-end, not demo-ware.</text>
+    <rect x="40" y="150" width="120" height="22" rx="11" fill="#0e7490" opacity="0.25"/>
+    <text x="52" y="165" font-family="Inter, system-ui, sans-serif" font-size="10.5" font-weight="600" fill="#67e8f9">PingBeacon · uptime</text>
+  </g>
+
+  <!-- card 2 : AI tooling -->
+  <g>
+    <rect x="350" y="24" width="300" height="162" rx="14" fill="#131320" stroke="#1e293b" stroke-width="1.5"/>
+    <rect x="370" y="44" width="40" height="40" rx="10" fill="url(#c2)"/>
+    <text x="390" y="70" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#0b0b12" text-anchor="middle" font-weight="800">✦</text>
+    <text x="426" y="64" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">AI that earns its spot</text>
+    <text x="370" y="88" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Bring-your-own-key. Local-first.</text>
+    <text x="370" y="106" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Summaries, specs, second opinions.</text>
+    <rect x="370" y="150" width="120" height="22" rx="11" fill="#5b21b6" opacity="0.35"/>
+    <text x="382" y="165" font-family="Inter, system-ui, sans-serif" font-size="10.5" font-weight="600" fill="#c4b5fd">Synop · YouTube → notes</text>
+  </g>
+
+  <!-- card 3 : design & devtools -->
+  <g>
+    <rect x="680" y="24" width="300" height="162" rx="14" fill="#131320" stroke="#1e293b" stroke-width="1.5"/>
+    <rect x="700" y="44" width="40" height="40" rx="10" fill="url(#c3)"/>
+    <text x="720" y="70" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#0b0b12" text-anchor="middle" font-weight="800">⌘</text>
+    <text x="756" y="64" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">Design as a feature</text>
+    <text x="700" y="88" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Calm interfaces. Opinionated.</text>
+    <text x="700" y="106" font-family="Inter, system-ui, sans-serif" font-size="12.5" fill="#94a3b8">The tool and the landing page match.</text>
+    <rect x="700" y="150" width="120" height="22" rx="11" fill="#065f46" opacity="0.4"/>
+    <text x="712" y="165" font-family="Inter, system-ui, sans-serif" font-size="10.5" font-weight="600" fill="#6ee7b7">heysharad.com</text>
+  </g>
+</svg>
