@@ -15,7 +15,7 @@ I'm **Sharad** — an independent builder. I take an idea, strip the confusion o
 | Project | What it is | Status |
 |---|---|---|
 | [**Synop**](https://github.com/sharadvc/synop) | Hour-long YouTube videos → dense, actionable, structured summaries. Open-source, bring-your-own-keys, [live demo](https://synop-ai.vercel.app). | 🟢 Live |
-| [**PingBeacon**](https://github.com/sharadvc/pingbeacon) | Uptime monitoring that respects your time — free tier, status pages, alert routing, SLO tracking. | 🔵 Publicizing |
+| [**PingBeacon**](https://github.com/sharadvc/pingbeacon) | Uptime monitoring that respects your time — free tier, status pages, alert routing, SLO tracking. [Live demo](https://pingbeacon.vercel.app). | 🟢 Open source |
 | **Repo Autopsy** | Paste any GitHub URL → instant *is this repo alive or a zombie?* health report + shareable card. | 🔴 Next flagship |
 
 ### 🧰 The stack
