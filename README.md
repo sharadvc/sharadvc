@@ -1,14 +1,10 @@
 # Sharad. 👋
 
-I build things and push them to GitHub — open-source tools, experiments, and the occasional full app. Nothing half-done, nothing that doesn't work.
-
-Right now that's one thing — and it's the main thing:
+I build open-source developer tools and ship them — nothing half-done, nothing that doesn't work.
 
 ## 📡 PingBeacon — the main thing
 
-**100% free & open-source uptime monitoring.** Public status pages with 90-day uptime bars, Slack + email alerts the second something breaks, SLO tracking, SSL checks, teams, and custom domains.
-
-**No plans. No paywalls. No limits.** Unlimited monitors, any check interval, forever. MIT licensed, self-hostable, and runs entirely on free tiers.
+**Free & open-source uptime monitoring.** Public status pages with 90-day uptime bars, Slack + email alerts the second something breaks, SLO tracking, SSL checks, teams, and custom domains. MIT-licensed, self-hostable, and runs entirely on free tiers — unlimited monitors, any check interval, no paywalls.
 
 <p align="center">
   <a href="https://github.com/sharadvc/pingbeacon">
@@ -27,7 +23,7 @@ Right now that's one thing — and it's the main thing:
 ## 🔭 Currently building
 
 - **PingBeacon** — uptime monitoring that respects your time. Open source, unlimited, [live now](https://pingbeacon-five.vercel.app).
-- **Repo Autopsy** — paste any GitHub URL → instant *is this repo alive or a zombie?* health report. Next up.
+- **synop** — hour-long YouTube videos → actionable, high-signal summaries in seconds. [Source](https://github.com/sharadvc/synop).
 
 ## 🧰 Stack
 
@@ -38,7 +34,6 @@ Right now that's one thing — and it's the main thing:
 [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ## 📊 GitHub
