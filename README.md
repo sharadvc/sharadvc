@@ -17,7 +17,7 @@ Right now that's one thing — and it's the main thing:
 </p>
 
 <p align="center">
-  <a href="https://pingbeacon.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-pingbeacon.vercel.app-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://pingbeacon-five.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-pingbeacon-five.vercel.app-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/sharadvc/pingbeacon"><img alt="Source on GitHub" src="https://img.shields.io/badge/Source-github.com%2Fsharadvc%2Fpingbeacon-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge" />
 </p>
@@ -26,7 +26,7 @@ Right now that's one thing — and it's the main thing:
 
 ## 🔭 Currently building
 
-- **PingBeacon** — uptime monitoring that respects your time. Open source, unlimited, [live now](https://pingbeacon.vercel.app).
+- **PingBeacon** — uptime monitoring that respects your time. Open source, unlimited, [live now](https://pingbeacon-five.vercel.app).
 - **Repo Autopsy** — paste any GitHub URL → instant *is this repo alive or a zombie?* health report. Next up.
 
 ## 🧰 Stack
