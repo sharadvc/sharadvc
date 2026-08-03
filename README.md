@@ -1,6 +1,6 @@
 # Sharad. 👋
 
-I build **small software that ships** — free-tier SaaS that actually works, devtools that cut friction instead of adding it, and AI tools that earn their place. No bloat, no dashboards for the sake of dashboards, no features nobody asked for.
+I build things and push them to GitHub — open-source tools, experiments, and the occasional full app. Nothing half-done, nothing that doesn't work.
 
 Right now that's one thing — and it's the main thing:
 
