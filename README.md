@@ -16,7 +16,7 @@ Free, self-hosted uptime monitoring. Public status pages, Slack & email alerts, 
 **synop**
 Hour-long YouTube videos, distilled into high-signal summaries in seconds.
 
-[Source](https://github.com/sharadvc/synop)
+[Live demo](https://synop-ai.vercel.app) · [Source](https://github.com/sharadvc/synop)
 
 ---
 
