@@ -1,6 +1,6 @@
 # Sharad.
 
-I build open-source developer tools — quietly, and to a high bar.
+Solo indie hacker. I build small, sharp tools and ship them in public.
 
 ---
 
