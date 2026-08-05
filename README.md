@@ -1,49 +1,71 @@
-# Sharad.
+<div align="center">
 
-**Solo Indie Hacker & Agentic Engineer**  
-Orchestrating autonomous AI agents, building sharp tools, and shipping at agentic velocity.
+# Sharad 👋
 
-[![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=flat-square&logo=globe&logoColor=white)](https://heysharad.com)
-[![X / Twitter](https://img.shields.io/badge/X-%40sharadvc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sharadvc)
-[![GitHub](https://img.shields.io/badge/GitHub-sharadvc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharadvc)
+### **Solo Indie Hacker • Full-Stack Builder**
 
----
+*Building and shipping software independently.*
 
-### ⚡ Selected Projects
+<br/>
 
-#### 🛡️ [Agent Guard](https://github.com/sharadvc/agent-guard)
-Zero-dependency CLI to audit and safeguard AI agent workflows. Inspect real-time tool execution, flag destructive commands before execution, and snapshot or restore workspace state instantly. Designed for Claude Code & Codex.
+[![Twitter/X](https://img.shields.io/badge/X-%40sharadvc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharadvc)
+[![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=for-the-badge&logo=globe&logoColor=white)](https://heysharad.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sharadvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadvc)
 
-[Source Code](https://github.com/sharadvc/agent-guard)
+</div>
 
----
-
-#### 📡 [PingBeacon](https://github.com/sharadvc/pingbeacon)
-Free, open-source uptime monitoring & status pages. Features multi-channel alerts (Slack/Email), SLO tracking, SSL checks, team workspaces, and custom domain support with zero paywalls.
-
-[Live Demo](https://pingbeacon-five.vercel.app) · [Source Code](https://github.com/sharadvc/pingbeacon) · [MIT License](https://github.com/sharadvc/pingbeacon/blob/main/LICENSE)
-
-![PingBeacon — Public Status Page](https://raw.githubusercontent.com/sharadvc/pingbeacon/main/public/screenshots/status.png)
+<br/>
 
 ---
 
-### 🤖 Agentic Stack & Focus
+### ⚡ About Me
 
-- **Workflow**: Multi-agent orchestration, prompt-driven architecture, agent safety guardrails, autonomous delivery
-- **Ecosystem**: Claude Code, Codex, Custom CLI Agents, OpenCode
-- **Mission**: Building self-verifying, agent-native developer tools and resilient web infrastructure
+> I build and maintain web software as a solo indie hacker. By combining modern developer workflows with lean architecture, I take products from initial concept to live production—handling design, frontend, backend, and deployment independently.
 
----
-
-<p align="center">
-  <a href="https://github.com/sharadvc">
-    <img src="https://github-readme-stats.vercel.app/api?username=sharadvc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sharad's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/sharadvc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadvc&layout=compact&theme=dark&hide_border=true&hide=html,css,scss" alt="Top Languages" height="150" />
-  </a>
-</p>
+- 🚀 **Solo Developer**: Designing and building full-stack web applications, tools, and developer utilities.
+- ⚡ **Streamlined Workflow**: Leveraging modern developer toolchains and automated execution to stay fast and autonomous.
+- 🎯 **Product-First**: Focused on shipping functional software, validating ideas early, and iterating based on real usage.
+- 🏗️ **Clean Architecture**: End-to-end web systems built with clean code and minimal operational complexity.
 
 ---
 
-[heysharad.com](https://heysharad.com) · [@sharadvc](https://x.com/sharadvc)
+### 🛠️ Stack & Technologies
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend & UX** | Next.js, React, TypeScript, Tailwind CSS, HTML5/CSS3 |
+| **Backend & Databases** | Node.js, Python, Firebase, Supabase, PostgreSQL, REST APIs |
+| **Deployment & Cloud** | Vercel, Firebase App Hosting, GitHub Actions, Docker |
+| **Developer Toolchain** | Automated Developer Environments, Scripting, Modern IDE Workflows |
+
+---
+
+### 🚀 Selected Projects
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[PingBeacon](https://github.com/sharadvc/pingbeacon)** | Open-source uptime monitoring with status pages, multi-channel alerts (Slack/Email), and SLO tracking | 🟢 Live |
+| **[Agent Guard](https://github.com/sharadvc/agent-guard)** | Zero-dependency CLI for process auditing, command safety checks, and workspace state snapshots | 🟢 Live |
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharadvc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Sharad's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadvc&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadvc&theme=github_dark&hide_border=true&background=0D1117&stroke=30363D&alarm=58A6FF" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 **Let's connect:** Reach out on [Twitter/X (@sharadvc)](https://x.com/sharadvc) or visit [heysharad.com](https://heysharad.com).
+
+</div>
