@@ -1,45 +1,37 @@
 <div align="center">
 
-# Sharad
+# Sharad.
 
-`Indie Hacker` • `Product Creator` • `Solo Founder`
-
-*Building minimalist, high-utility software.*
+**Building small, sharp tools & shipping at speed.**
 
 <br/>
 
-[![X / Twitter](https://img.shields.io/badge/@sharadvc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharadvc)
-[![Website](https://img.shields.io/badge/heysharad.com-111827?style=for-the-badge&logo=globe&logoColor=white)](https://heysharad.com)
-[![GitHub Repos](https://img.shields.io/badge/Repos-sharadvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadvc?tab=repositories)
+[![Status](https://img.shields.io/badge/Status-Shipping_0--1-238636?style=flat-square)](https://heysharad.com)
+[![X / Twitter](https://img.shields.io/badge/X-%40sharadvc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sharadvc)
+[![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=flat-square&logo=globe&logoColor=white)](https://heysharad.com)
 
 </div>
 
 <br/>
 
-### ⚡ What I Build
+---
 
-I design and launch web products, monitoring systems, and developer tooling. Product-first, zero bloat, shipped fast.
+### ⚡ Featured Products
 
-- 📡 **[PingBeacon](https://github.com/sharadvc/pingbeacon)** — Uptime monitoring with public status pages, multi-channel alerts (Slack/Email), and SLO tracking.
+- 📡 **[PingBeacon](https://github.com/sharadvc/pingbeacon)** — Free uptime monitoring with public status pages, multi-channel alerts (Slack/Email), and SLO tracking.
+
 - 🛡️ **[Agent Guard](https://github.com/sharadvc/agent-guard)** — Zero-dependency CLI to audit process execution, enforce command safety checks, and snapshot/restore workspace state.
 
 <br/>
 
-### 🛠️ Currently Working On
+### 🛠️ Current Focus
 
 ```console
-$ status --current
-> Building: Web applications & developer utilities
-> Focus:    Clean UX, self-verifying CLI tools, zero-config reliability
-> Shipping: In public at heysharad.com & x.com/sharadvc
+$ sharad --status
+> Mode:     Solo Builder
+> Shipping: PingBeacon & Agent Guard
+> Mindset:  High leverage, clean UX, zero bloat
+> Links:    x.com/sharadvc • heysharad.com
 ```
 
-<br/>
-
-<div align="center">
-
 ---
-
-Connect on [Twitter/X (@sharadvc)](https://x.com/sharadvc) • Visit [heysharad.com](https://heysharad.com)
-
-</div>
