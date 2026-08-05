@@ -2,9 +2,9 @@
 
 # Sharad
 
-`Indie Hacker` • `Product Creator` • `Open Source`
+`Indie Hacker` • `Product Creator` • `Solo Founder`
 
-*Building minimalist, high-utility software for builders.*
+*Building minimalist, high-utility software.*
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ### ⚡ What I Build
 
-I design and launch open-source web products, monitoring systems, and developer tooling. Product-first, zero bloat, shipped fast.
+I design and launch web products, monitoring systems, and developer tooling. Product-first, zero bloat, shipped fast.
 
-- 📡 **[PingBeacon](https://github.com/sharadvc/pingbeacon)** — Free & open-source uptime monitoring with public status pages, multi-channel alerts (Slack/Email), and SLO tracking.
+- 📡 **[PingBeacon](https://github.com/sharadvc/pingbeacon)** — Uptime monitoring with public status pages, multi-channel alerts (Slack/Email), and SLO tracking.
 - 🛡️ **[Agent Guard](https://github.com/sharadvc/agent-guard)** — Zero-dependency CLI to audit process execution, enforce command safety checks, and snapshot/restore workspace state.
 
 <br/>
@@ -29,7 +29,7 @@ I design and launch open-source web products, monitoring systems, and developer 
 
 ```console
 $ status --current
-> Building: Open-source developer utilities & web infrastructure
+> Building: Web applications & developer utilities
 > Focus:    Clean UX, self-verifying CLI tools, zero-config reliability
 > Shipping: In public at heysharad.com & x.com/sharadvc
 ```
