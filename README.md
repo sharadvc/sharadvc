@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sharadvc&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/sharadvc)
+[![Unique Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sharadvc.sharadvc&left_text=Profile%20Views&left_color=181717&right_color=58a6ff)](https://github.com/sharadvc)
 [![Status](https://img.shields.io/badge/Status-Shipping_in_Public-238636?style=flat-square)](https://heysharad.com)
 [![X / Twitter](https://img.shields.io/badge/X-%40sharadvc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sharadvc)
 [![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=flat-square&logo=globe&logoColor=white)](https://heysharad.com)
