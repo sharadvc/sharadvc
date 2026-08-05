@@ -72,6 +72,6 @@ $ sharad --status
 
 <div align="center">
 
-*Building in public at [heysharad.com](https://heysharad.com) • Reach out on [Twitter/X (@sharadvc)](https://x.com/sharadvc)*
+[heysharad.com](https://heysharad.com) • [Twitter/X (@sharadvc)](https://x.com/sharadvc)
 
 </div>
