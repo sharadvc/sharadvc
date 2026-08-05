@@ -3,7 +3,7 @@
 # Sharad 👋
 
 <a href="https://heysharad.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=Building+small%2C+sharp+tools;Shipping+0+%E2%86%92+1+products;Solo+Indie+Hacker+%E2%80%A2+Product+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=Building+sharp%2C+high-impact+software;Shipping+0+%E2%86%92+1+products;Indie+Hacker+%E2%80%A2+Product+Creator" alt="Typing Animation" />
 </a>
 
 <br/>
