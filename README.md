@@ -1,26 +1,48 @@
 # Sharad.
 
-Solo indie hacker. I build helpful, sharp tools and ship them in public.
+**Agentic Engineer & Vibe Coder**  
+Orchestrating autonomous AI agents, building sharp tools, and shipping at agentic velocity.
+
+[![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=flat-square&logo=globe&logoColor=white)](https://heysharad.com)
+[![X / Twitter](https://img.shields.io/badge/X-%40sharadvc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sharadvc)
+[![GitHub](https://img.shields.io/badge/GitHub-sharadvc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharadvc)
 
 ---
 
-**PingBeacon**
-Free, self-hosted uptime monitoring. Public status pages, Slack & email alerts, SLO tracking, SSL checks, teams, and custom domains. MIT licensed — unlimited monitors, no paywalls.
+### ⚡ Selected Projects
 
-[Live demo](https://pingbeacon-five.vercel.app) · [Source](https://github.com/sharadvc/pingbeacon) · [MIT](https://github.com/sharadvc/pingbeacon/blob/main/LICENSE)
+#### 🛡️ [Agent Guard](https://github.com/sharadvc/agent-guard)
+Zero-dependency CLI to audit and safeguard AI agent workflows. Inspect real-time tool execution, flag destructive commands before execution, and snapshot or restore workspace state instantly. Designed for Claude Code & Codex.
 
-![PingBeacon — public status page](https://raw.githubusercontent.com/sharadvc/pingbeacon/main/public/screenshots/status.png)
-
----
-
-**synop**
-Hour-long YouTube videos, distilled into high-signal summaries in seconds.
-
-[Live demo](https://synop-ai.vercel.app) · [Source](https://github.com/sharadvc/synop)
+[Source Code](https://github.com/sharadvc/agent-guard)
 
 ---
 
-TypeScript · Next.js · React · Tailwind CSS · Supabase · PostgreSQL · Prisma · GitHub Actions
+#### 📡 [PingBeacon](https://github.com/sharadvc/pingbeacon)
+Free, open-source uptime monitoring & status pages. Features multi-channel alerts (Slack/Email), SLO tracking, SSL checks, team workspaces, and custom domain support with zero paywalls.
+
+[Live Demo](https://pingbeacon-five.vercel.app) · [Source Code](https://github.com/sharadvc/pingbeacon) · [MIT License](https://github.com/sharadvc/pingbeacon/blob/main/LICENSE)
+
+![PingBeacon — Public Status Page](https://raw.githubusercontent.com/sharadvc/pingbeacon/main/public/screenshots/status.png)
+
+---
+
+### 🤖 Agentic Stack & Focus
+
+- **Workflow**: Multi-agent orchestration, prompt-driven architecture, agent safety guardrails, autonomous delivery
+- **Ecosystem**: Claude Code, Codex, Custom CLI Agents, OpenCode
+- **Mission**: Building self-verifying, agent-native developer tools and resilient web infrastructure
+
+---
+
+<p align="center">
+  <a href="https://github.com/sharadvc">
+    <img src="https://github-readme-stats.vercel.app/api?username=sharadvc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sharad's GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/sharadvc">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadvc&layout=compact&theme=dark&hide_border=true&hide=html,css,scss" alt="Top Languages" height="150" />
+  </a>
+</p>
 
 ---
 
