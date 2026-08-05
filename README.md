@@ -37,17 +37,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharadvc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Sharad's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadvc&theme=github_dark&hide_border=true&background=0D1117&stroke=30363D&alarm=58A6FF" alt="GitHub Streak" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 💬 **Let's connect:** Reach out on [Twitter/X (@sharadvc)](https://x.com/sharadvc) or visit [heysharad.com](https://heysharad.com).
