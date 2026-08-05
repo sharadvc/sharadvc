@@ -1,6 +1,6 @@
 # Sharad.
 
-**Agentic Engineer & Vibe Coder**  
+**Solo Indie Hacker & Agentic Engineer**  
 Orchestrating autonomous AI agents, building sharp tools, and shipping at agentic velocity.
 
 [![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=flat-square&logo=globe&logoColor=white)](https://heysharad.com)
