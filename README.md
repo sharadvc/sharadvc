@@ -1,44 +1,45 @@
 <div align="center">
 
-# Sharad 👋
+# Sharad
 
-### **Solo Indie Hacker • Product Creator**
+`Indie Hacker` • `Product Creator` • `Open Source`
 
-*Turning ideas into live products through vision & rapid execution.*
+*Building minimalist, high-utility software for builders.*
 
 <br/>
 
-[![Twitter/X](https://img.shields.io/badge/X-%40sharadvc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharadvc)
-[![Website](https://img.shields.io/badge/Website-heysharad.com-111827?style=for-the-badge&logo=globe&logoColor=white)](https://heysharad.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sharadvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadvc)
+[![X / Twitter](https://img.shields.io/badge/@sharadvc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sharadvc)
+[![Website](https://img.shields.io/badge/heysharad.com-111827?style=for-the-badge&logo=globe&logoColor=white)](https://heysharad.com)
+[![GitHub Repos](https://img.shields.io/badge/Repos-sharadvc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadvc?tab=repositories)
 
 </div>
 
 <br/>
 
----
+### ⚡ What I Build
 
-### ⚡ About Me
+I design and launch open-source web products, monitoring systems, and developer tooling. Product-first, zero bloat, shipped fast.
 
-> I build and launch web products as a solo indie hacker. I focus on product vision, design, user experience, and execution—bringing ideas from initial concept directly to live production.
+- 📡 **[PingBeacon](https://github.com/sharadvc/pingbeacon)** — Free & open-source uptime monitoring with public status pages, multi-channel alerts (Slack/Email), and SLO tracking.
+- 🛡️ **[Agent Guard](https://github.com/sharadvc/agent-guard)** — Zero-dependency CLI to audit process execution, enforce command safety checks, and snapshot/restore workspace state.
 
-- 🚀 **Zero to One**: Turning ideas into functional, published web applications.
-- 🎨 **Product & UX**: Prioritizing user experience, clean interface design, and real-world utility.
-- 🎯 **Public Shipping**: Validating concepts early, gathering feedback, and iterating rapidly.
+<br/>
 
----
+### 🛠️ Currently Working On
 
-### 🚀 Selected Projects
+```console
+$ status --current
+> Building: Open-source developer utilities & web infrastructure
+> Focus:    Clean UX, self-verifying CLI tools, zero-config reliability
+> Shipping: In public at heysharad.com & x.com/sharadvc
+```
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[PingBeacon](https://github.com/sharadvc/pingbeacon)** | Open-source uptime monitoring with status pages, multi-channel alerts (Slack/Email), and SLO tracking | 🟢 Live |
-| **[Agent Guard](https://github.com/sharadvc/agent-guard)** | Zero-dependency CLI for process auditing, command safety checks, and workspace state snapshots | 🟢 Live |
-
----
+<br/>
 
 <div align="center">
 
-💬 **Let's connect:** Reach out on [Twitter/X (@sharadvc)](https://x.com/sharadvc) or visit [heysharad.com](https://heysharad.com).
+---
+
+Connect on [Twitter/X (@sharadvc)](https://x.com/sharadvc) • Visit [heysharad.com](https://heysharad.com)
 
 </div>
