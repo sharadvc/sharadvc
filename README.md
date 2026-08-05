@@ -2,7 +2,7 @@
 
 # Sharad 👋
 
-### **Solo Indie Hacker • Vibe Coder**
+### **Solo Indie Hacker • Product Creator**
 
 *Turning ideas into live products through vision & rapid execution.*
 
@@ -20,9 +20,9 @@
 
 ### ⚡ About Me
 
-> I am a solo indie hacker and vibe coder. Rather than getting bogged down in boilerplate, I focus on product vision, user experience, and rapid execution—taking concepts from zero to live production independently.
+> I am a solo indie hacker and product creator. Rather than getting bogged down in boilerplate code, I focus on product vision, user experience, and rapid execution—taking concepts from zero to live production independently.
 
-- 🎨 **Vibe Coding**: Product-first creation—focusing on ideas, UX, and shipping rather than manual line-by-line coding.
+- 🎨 **Product-First Creation**: Focusing on design, usability, and shipping rather than manual line-by-line coding.
 - 🚀 **Zero to One**: Turning rough concepts into functional, published web applications.
 - 🎯 **Build & Ship**: Prioritizing real-world utility, rapid iteration, and public building.
 
