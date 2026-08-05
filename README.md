@@ -2,9 +2,9 @@
 
 # Sharad 👋
 
-### **Solo Indie Hacker • Full-Stack Builder**
+### **Solo Indie Hacker • Vibe Coder**
 
-*Building and shipping software independently.*
+*Turning ideas into live products through vision & rapid execution.*
 
 <br/>
 
@@ -20,23 +20,11 @@
 
 ### ⚡ About Me
 
-> I build and maintain web software as a solo indie hacker. By combining modern developer workflows with lean architecture, I take products from initial concept to live production—handling design, frontend, backend, and deployment independently.
+> I am a solo indie hacker and vibe coder. Rather than getting bogged down in boilerplate, I focus on product vision, user experience, and rapid execution—taking concepts from zero to live production independently.
 
-- 🚀 **Solo Developer**: Designing and building full-stack web applications, tools, and developer utilities.
-- ⚡ **Streamlined Workflow**: Leveraging modern developer toolchains and automated execution to stay fast and autonomous.
-- 🎯 **Product-First**: Focused on shipping functional software, validating ideas early, and iterating based on real usage.
-- 🏗️ **Clean Architecture**: End-to-end web systems built with clean code and minimal operational complexity.
-
----
-
-### 🛠️ Stack & Technologies
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend & UX** | Next.js, React, TypeScript, Tailwind CSS, HTML5/CSS3 |
-| **Backend & Databases** | Node.js, Python, Firebase, Supabase, PostgreSQL, REST APIs |
-| **Deployment & Cloud** | Vercel, Firebase App Hosting, GitHub Actions, Docker |
-| **Developer Toolchain** | Automated Developer Environments, Scripting, Modern IDE Workflows |
+- 🎨 **Vibe Coding**: Product-first creation—focusing on ideas, UX, and shipping rather than manual line-by-line coding.
+- 🚀 **Zero to One**: Turning rough concepts into functional, published web applications.
+- 🎯 **Build & Ship**: Prioritizing real-world utility, rapid iteration, and public building.
 
 ---
 
@@ -54,11 +42,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sharadvc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Sharad's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadvc&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,scss" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadvc&theme=github_dark&hide_border=true&background=0D1117&stroke=30363D&alarm=58A6FF" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadvc&theme=github_dark&hide_border=true&background=0D1117&stroke=30363D&alarm=58A6FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
