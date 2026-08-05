@@ -1,6 +1,6 @@
 # Sharad.
 
-Solo indie hacker. I build small, sharp tools and ship them in public.
+Solo indie hacker. I build helpful, sharp tools and ship them in public.
 
 ---
 
