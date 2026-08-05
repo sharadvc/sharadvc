@@ -47,7 +47,6 @@
 ### 🛠️ Ecosystem & Toolchain
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude_3.5-D97706?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
