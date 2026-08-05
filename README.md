@@ -20,11 +20,11 @@
 
 ### ⚡ About Me
 
-> I am a solo indie hacker and product creator. Rather than getting bogged down in boilerplate code, I focus on product vision, user experience, and rapid execution—taking concepts from zero to live production independently.
+> I build and launch web products as a solo indie hacker. I focus on product vision, design, user experience, and execution—bringing ideas from initial concept directly to live production.
 
-- 🎨 **Product-First Creation**: Focusing on design, usability, and shipping rather than manual line-by-line coding.
-- 🚀 **Zero to One**: Turning rough concepts into functional, published web applications.
-- 🎯 **Build & Ship**: Prioritizing real-world utility, rapid iteration, and public building.
+- 🚀 **Zero to One**: Turning ideas into functional, published web applications.
+- 🎨 **Product & UX**: Prioritizing user experience, clean interface design, and real-world utility.
+- 🎯 **Public Shipping**: Validating concepts early, gathering feedback, and iterating rapidly.
 
 ---
 
