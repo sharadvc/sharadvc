@@ -27,13 +27,6 @@
       <a href="https://pingbeacon-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="PingBeacon Live Demo" /></a>
       <a href="https://github.com/sharadvc/pingbeacon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="PingBeacon Source" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/sharadvc/agent-guard">Agent Guard</a></h3>
-      Zero-dependency CLI to audit process execution, enforce command safety checks, and snapshot/restore workspace state.
-      <br/><br/>
-      <a href="https://github.com/sharadvc/agent-guard"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Agent Guard Source" /></a>
-      <a href="https://github.com/sharadvc/agent-guard/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License" /></a>
-    </td>
   </tr>
 </table>
 
