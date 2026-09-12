@@ -1,0 +1,89 @@
+name: Update merged PR stats
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pr-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count merged PRs into others' repos and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api "search/issues?q=type:pr+author:@me+is:merged&per_page=100" --paginate \
+            --jq '.items[] | "\(.repository_url)|\(.html_url)|\(.title)"' > /tmp/prs.txt || true
+
+          python3 << 'EOF'
+          import re, os
+          from collections import Counter
+
+          owner = "sharadvc"
+          others = []
+          with open("/tmp/prs.txt") as f:
+              for line in f:
+                  line = line.strip().strip('"')
+                  if not line or "|" not in line:
+                      continue
+                  repo_url, pr_url, title = line.split("|", 2)
+                  repo = repo_url.replace("https://api.github.com/repos/", "")
+                  if repo.lower().startswith(f"{owner.lower()}/"):
+                      continue  # skip own repos
+                  others.append(repo)
+
+          counts = Counter(others)
+          total = sum(counts.values())
+          goal = 100
+
+          rows = "\n".join(
+              f"| [{repo}](https://github.com/{repo}) | {n} |"
+              for repo, n in sorted(counts.items(), key=lambda x: -x[1])
+          )
+          block = (
+              f"[![Merged PRs into others' repos]"
+              f"(https://img.shields.io/badge/merged%20PRs%20(others%27%20repos)-{total}-brightgreen?style=flat-square)]"
+              f"(https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A{owner}+-user%3A{owner})\n\n"
+              f"**{total} PRs merged** into other people's repos so far "
+              f"{'🎉 GOAL HIT!' if total >= goal else f'🚀 (goal: **{goal}** for [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss))'}\n\n"
+              f"| Repository | Merged PRs |\n|---|---|\n{rows}\n"
+          )
+
+          path = "README.md"
+          with open(path) as f:
+              readme = f.read()
+
+          start = "<!-- PR_STATS:START"
+          end = "<!-- PR_STATS:END -->"
+          si = readme.index(start)
+          ee = readme.index(end) + len(end)
+          # keep the START marker comment intact, replace content between it and END
+          marker_line_end = readme.index("-->", si) + len("-->")
+          new_readme = readme[:marker_line_end] + "\n" + block + "\n" + readme[ee:]
+
+          with open(path, "w") as f:
+              f.write(new_readme)
+          print(f"Updated README: {total} merged PRs across {len(counts)} repos")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: auto-update merged PR stats [skip ci]"
+            git push
+          fi
