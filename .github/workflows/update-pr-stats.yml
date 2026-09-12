@@ -55,12 +55,17 @@ jobs:
               f"| [{repo}](https://github.com/{repo}) | {n} |"
               for repo, n in sorted(counts.items(), key=lambda x: -x[1])
           )
+          badge_url = (
+              "https://img.shields.io/badge/merged%20into%20others'%20repos-"
+              f"{total}-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"
+          )
+          proof_url = f"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A{owner}+-user%3A{owner}"
           block = (
-              f"[![Merged PRs into others' repos]"
-              f"(https://img.shields.io/badge/merged%20PRs%20(others%27%20repos)-{total}-brightgreen?style=flat-square)]"
-              f"(https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A{owner}+-user%3A{owner})\n\n"
-              f"**{total} PRs merged** into other people's repos 🚀\n\n"
-              f"| Repository | Merged PRs |\n|---|---|\n{rows}\n"
+              f"[![Merged PRs]({badge_url})]({proof_url})\n\n"
+              "<details>\n<summary><b>🧾 receipts — every single one, verified</b></summary>\n<br>\n\n"
+              f"| repo | merged |\n|---|---|\n{rows}\n\n"
+              "*count is pulled live from the GitHub search API — click the badge for the raw proof*\n\n"
+              "</details>"
           )
 
           path = "README.md"
