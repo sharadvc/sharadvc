@@ -3,7 +3,7 @@
 <!-- PR_STATS:START (auto-updated by GitHub Actions — do not edit manually) -->
 [![Merged PRs into others' repos](https://img.shields.io/badge/merged%20PRs%20(others%27%20repos)-24-brightgreen?style=flat-square)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asharadvc+-user%3Asharadvc)
 
-**24 PRs merged** into other people's repos so far **24 PRs merged** into other people's repos 🚀
+**24 PRs merged** into other people's repos 🚀
 
 | Repository | Merged PRs |
 |---|---|
@@ -14,6 +14,7 @@
 | [sx4im/skillcheck](https://github.com/sx4im/skillcheck) | 1 |
 
 <!-- PR_STATS:END -->
+
 
 
 
