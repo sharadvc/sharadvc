@@ -1,6 +1,6 @@
 # Sharad
 
-Building things. Shipping PRs into other people's repos.
+Building things. Love Merged PRs.
 
 <!-- count:start -->
 **24 merged** — [see every one of them](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asharadvc+-user%3Asharadvc)
