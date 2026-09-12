@@ -22,8 +22,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api "search/issues?q=type:pr+author:sharadvc+is:merged&per_page=100" --paginate \
-            --jq '.items[] | "\(.repository_url)|\(.html_url)|\(.title)"' > /tmp/prs.txt || true
+          for i in 1 2 3 4 5; do
+            if gh api "search/issues?q=type:pr+author:sharadvc+is:merged&per_page=100" --paginate \
+              --jq '.items[] | "\(.repository_url)|\(.html_url)|\(.title)"' > /tmp/prs.txt; then
+              break
+            fi
+            echo "Search failed (attempt $i), retrying in 30s..."
+            sleep 30
+          done
 
           python3 << 'EOF'
           import re, os
@@ -66,10 +72,13 @@ jobs:
           start = "<!-- PR_STATS:START"
           end = "<!-- PR_STATS:END -->"
           si = readme.index(start)
-          ee = readme.index(end) + len(end)
-          # keep the START marker comment intact, replace content between it and END
           marker_line_end = readme.index("-->", si) + len("-->")
-          new_readme = readme[:marker_line_end] + "\n" + block + "\n" + readme[ee:]
+          if end in readme:
+              tail = readme[readme.index(end) + len(end):]
+          else:
+              idx = readme.find("![GitHub stats")
+              tail = ("\n" + readme[idx:]) if idx != -1 else "\n"
+          new_readme = readme[:marker_line_end] + "\n" + block + "\n" + end + "\n" + tail
 
           with open(path, "w") as f:
               f.write(new_readme)
