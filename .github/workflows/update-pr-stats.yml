@@ -59,7 +59,6 @@ jobs:
               f"[![Merged PRs into others' repos]"
               f"(https://img.shields.io/badge/merged%20PRs%20(others%27%20repos)-{total}-brightgreen?style=flat-square)]"
               f"(https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A{owner}+-user%3A{owner})\n\n"
-              f"**{total} PRs merged** into other people's repos so far "
               f"**{total} PRs merged** into other people's repos 🚀\n\n"
               f"| Repository | Merged PRs |\n|---|---|\n{rows}\n"
           )
