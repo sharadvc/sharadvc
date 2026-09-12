@@ -22,7 +22,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api "search/issues?q=type:pr+author:@me+is:merged&per_page=100" --paginate \
+          gh api "search/issues?q=type:pr+author:sharadvc+is:merged&per_page=100" --paginate \
             --jq '.items[] | "\(.repository_url)|\(.html_url)|\(.title)"' > /tmp/prs.txt || true
 
           python3 << 'EOF'
